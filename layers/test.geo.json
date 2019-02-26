@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+	  "id":"TEST",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "linestring"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.01910972595215,
+            -29.05346864562625
+          ],
+          [
+            152.02314376831055,
+            -29.05399385671712
+          ],
+          [
+            152.02799320220947,
+            -29.052980947218447
+          ],
+          [
+            152.0385503768921,
+            -29.054519065133388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#800000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
+        "name": "polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              152.0210838317871,
+              -29.06370977943455
+            ],
+            [
+              152.01971054077148,
+              -29.067873466046205
+            ],
+            [
+              152.02550411224365,
+              -29.068698681260962
+            ],
+            [
+              152.02619075775146,
+              -29.064460005659313
+            ],
+            [
+              152.0210838317871,
+              -29.06370977943455
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0080",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.01623439788818,
+          -29.052305668692835
+        ]
+      }
+    }
+  ]
+}

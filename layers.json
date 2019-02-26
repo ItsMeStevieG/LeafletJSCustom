@@ -1,0 +1,18 @@
+{
+    "layers": [
+        {
+            "id": "TSCLGA",
+			"name": "TSC LGA",
+            "geojson": "layers\/lga.geo.json",
+			"enabled": "true",
+			"visible": "true"
+        },
+        {
+			"id": "NSWRFS",
+            "name": "NSW RFS",
+            "geojson": "layers\/fire.php",
+			"enabled": "true",
+			"visible": "false"
+        }
+    ]
+}
