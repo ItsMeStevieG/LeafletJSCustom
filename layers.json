@@ -11,7 +11,7 @@
 			"id": "NSWRFS",
             "name": "NSW RFS",
             "geojson": "layers\/fire.php",
-			"enabled": "true",
+			"enabled": "false",
 			"visible": "false"
         }
     ]
